@@ -19,4 +19,5 @@ Features/Highlights:
 🏬 Outlet performance analysis by size, location, and establishment year.
 🥫 Fat content and product category distribution analysis.
 📍 Regional sales insights based on outlet location.
-Screenshots / Demos
+Screenshots / Demos:
+DASHBOARD snapshot:![Dashboard preview](https://github.com/Abdulll17/blinkit-dashboard/blob/main/snapshot%20of%20dashboard.png)
