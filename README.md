@@ -1,5 +1,5 @@
 # blinkit-dashboard
-BLINKIT SALES DATA ANALYSIS: The insights of blinkit sales dashboard
+BLINKIT SALES DATA ANALYSIS: The insights of blinkit sales dashboard.
 A dynamic,interactive data visualization tool built to explore the blinkit data nationwide-focusing on total sales,avg sales,no of items and avg rating.The blinkit data analytics Dashboard is a visually engaging and analytical power BI report designed to provide insights of the sales performance,customer behavior and product trends.it is a project that transforms the data into interactive dashboard for data-driven decision making.
 TECH STACK:
 The dashboard was built using the following tools and technologies-
